@@ -1,0 +1,4 @@
+C:\Users\Št!\Desktop\TCPZonja\TCPZonja\bin\Debug\TCPZonja.exe
+C:\Users\Št!\Desktop\TCPZonja\TCPZonja\bin\Debug\TCPZonja.pdb
+C:\Users\Št!\Desktop\TCPZonja\TCPZonja\obj\Debug\TCPZonja.exe
+C:\Users\Št!\Desktop\TCPZonja\TCPZonja\obj\Debug\TCPZonja.pdb
